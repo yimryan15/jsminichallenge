@@ -11,7 +11,7 @@ console.log(str1 + str2);
 favThings = [
   ["cats", "giraffes", "dogs"],
   ["computers", "video games", "sleeping"]
-  ];
+];
 console.log(favThings[0][1]);
 console.log(favThings[1][2]);
 
